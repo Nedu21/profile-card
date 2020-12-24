@@ -22,7 +22,7 @@ body{
 .blue{
     background-image: url(images/bg-pattern-card.svg);
     background-repeat: no-repeat;
-    background-size: 300px 100px;
+    background-size: 600px 100px;
 }
 .image{
     background: #fff;
